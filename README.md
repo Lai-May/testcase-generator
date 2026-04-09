@@ -109,6 +109,16 @@ https://your-zentao.com/story-view-123.html
 - ✅ Word：包含所有章节
 - ✅ CSV：5 个独立文件或 ZIP 打包
 
+### 📤 禅道导入
+
+**禅道导入字段映射规则请参考：** [zentao-write-rules](https://github.com/Lai-May/zentao-write-rules)
+
+包含：
+- 禅道 13 列模板说明
+- 字段映射规则（用例→禅道）
+- 优先级转换表（P0→1, P1→2, P2→3, P3→4）
+- 步骤/预期格式规范
+
 ### 📝 待确认需求清单格式
 
 | 序号 | 待确认项 | 问题描述 | 影响级别 | 关联用例 | 建议确认人 | 状态 |
